@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is first commit file
+=======
+This is first file
+>>>>>>> bfb010e59eafaa4d893d168c5aefaf3e2bb1e5c9
